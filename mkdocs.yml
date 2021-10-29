@@ -56,6 +56,8 @@ nav:
     - postgres/check-idle-queries.md
   - Kafka:
     - kafka/reset-offset.md
+  - Miscellaneous:
+    - miscellaneous/commands.md
 
 markdown_extensions:
   - admonition
