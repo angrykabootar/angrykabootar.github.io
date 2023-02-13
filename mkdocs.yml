@@ -65,7 +65,7 @@ nav:
   - Kafka:
     - kafka/reset-offset.md
   - Redis:
-    - redis/delete-by-regex-pattern.md
+    - redis/data-modification.md
   - Miscellaneous:
     - miscellaneous/commands.md
 
