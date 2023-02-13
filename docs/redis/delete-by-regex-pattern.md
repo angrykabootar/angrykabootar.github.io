@@ -1,4 +1,4 @@
-## Collection of Miscellaneous command comes in handy once in a blue moon.
+## Collection of Redis command comes.
 
 ---
 
