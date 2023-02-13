@@ -64,6 +64,8 @@ nav:
     - postgres/count-estimate.md
   - Kafka:
     - kafka/reset-offset.md
+  - Redis:
+    - redis/delete-by-regex-pattern.md
   - Miscellaneous:
     - miscellaneous/commands.md
 
